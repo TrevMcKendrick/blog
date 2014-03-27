@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Product Roadmaps
+category: blog
 ---
 
- I'm lucky in that once a week I get to sit down and hear founders pitch their companies and products. As I listen I'm asking myself two things: 
+ I'm lucky in that once a week I get to sit down and hear founders pitch their companies and products. As I listen I'm asking myself two things:
  
  1. Why or why not might this work? 
  2. How can I add value to this team? I want to talk about #2. 

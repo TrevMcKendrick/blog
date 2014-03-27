@@ -2,6 +2,7 @@
 layout: post
 title: How to pick a profitable App Store Niche
 category: my-first-year-in-the-app-store
+category: blog
 ---
 <p>This is the second of ten blog posts about my first year in the App Store. You can read the <a href="http://www.trevormckendrick.com/my-first-year-in-the-app-store/">first post here</a>.</p>
 

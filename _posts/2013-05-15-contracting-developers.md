@@ -2,6 +2,7 @@
 layout: post
 title: What Everybody Should Know About Contracting Developers
 category: my-first-year-in-the-app-store
+category: blog
 ---
 
 This is post #4 of my 8 post series on my first year in the App Store.

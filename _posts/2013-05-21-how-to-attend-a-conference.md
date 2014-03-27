@@ -2,6 +2,7 @@
 layout: post
 title: How to Attend a Conference
 category: my-first-year-in-the-app-store
+category: blog
 ---
 
 This is post #5 of my 8 post series on my first year in the App Store.

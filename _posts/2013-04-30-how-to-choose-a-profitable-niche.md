@@ -2,6 +2,7 @@
 layout: post
 title: How to Choose a Profitable Niche
 category: my-first-year-in-the-app-store
+category: blog
 ---
 
 This is post #2 of my 8 post series on my first year in the App Store.

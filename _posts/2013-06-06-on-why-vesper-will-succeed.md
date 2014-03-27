@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Vesper will Succeed
+category: blog
 ---
 <p>Today John Gruber, Dave Wiskus, and Brent Simmons launched a thought collection app called <a href="http://vesperapp.co/">Vesper</a>. As I write this it&#8217;s holding strong at #68 Overall for iPhone Gross Ranking. I estimate it will pay for itself (i.e. time invested) within a week or two.
 <img src="http://www.trevormckendrick.com/wp-content/uploads/2013/06/Vesper-Ranking.png" alt="Vesper Ranking" /></p>

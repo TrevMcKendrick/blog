@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why is Everyone like Their Parents?
+category: blog
 ---
 
 Why do many people end up in the same socioeconomic rung as their parents? There’s at least two reasons I can think of.

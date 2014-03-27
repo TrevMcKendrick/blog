@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'App Store Pricing and Top Charts: A Lesson on Apple''s Priorities'
+category: blog
 ---
 
 Marco Arment wrote there are [three problems with the “Top Charts” list][1] in the App Store:

@@ -2,6 +2,7 @@
 layout: post
 title: Email Marketing with iOS
 category: my-first-year-in-the-app-store
+category: blog
 ---
 
 This is post #8 of my 8 post series on my first year in the App Store.

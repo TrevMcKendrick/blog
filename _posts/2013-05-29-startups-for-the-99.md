@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Startups for the 99%
+category: blog
 ---
 If you’re like me you probably read..
 
