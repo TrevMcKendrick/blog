@@ -47,7 +47,7 @@ Below you can see the jump our revenue did the day we blasted out an offer. I re
 That’s it. We haven’t really even scratched the surface on the potential of email marketing, but the little we’ve done is working.
 
    [1]: http://www.trevormckendrick.com/my-first-year-in-the-app-store/
-   [2]: http://localhost:4000/first-year-in-app-store/
+   [2]: {{ root_url }}/first-year-in-app-store/
    [3]: http://www.trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
    [4]: http://www.trevormckendrick.com/contracting-developers/
    [5]: http://www.trevormckendrick.com/how-to-attend-a-conference/

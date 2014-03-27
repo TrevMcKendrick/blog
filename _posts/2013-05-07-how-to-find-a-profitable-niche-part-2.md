@@ -5,7 +5,7 @@ category: first-year-in-app-store
 ---
 This is post #3 of my 8 post series on my first year in the App Store.
 
-You can [read the full series here](http://localhost:4000/first-year-in-app-store/)
+You can [read the full series here]({{ root_url }}/first-year-in-app-store/)
 
 This post is a continuation of last week. I wrote there are 3 parts parts to the ideal profitable niche:
 
