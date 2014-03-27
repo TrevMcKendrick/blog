@@ -19,7 +19,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
   font-family: "open sans", sans-serif;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 h1.title {
@@ -152,11 +152,11 @@ nav hr {
 }
 
 .sidebar a {
-  font-weight: 600;
+  font-weight: 200;
 }
 
 .content {
-  font: 400 16px/22px "open sans", sans-serif;
+  /*font: 200 16px/22px "open sans", sans-serif;*/
   border-left: 1px solid #DDD;
   padding-left: 40px;
   padding-top: 25px;
