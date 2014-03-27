@@ -4,7 +4,7 @@ url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
-# permalink: /:title
+permalink: /:title
 
 # Theme customization - please change from the defaults!
 theme:
