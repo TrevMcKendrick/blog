@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How to Attend a Conference
-category: first-year-in-app-store
+category: my-first-year-in-the-app-store
 ---
 
 This is post #5 of my 8 post series on my first year in the App Store.
 
-You can [read the full series here]({{ root_url }}/first-year-in-app-store/)
+You can [read the full series here]({{ root_url }}/my-first-year-in-the-app-store/)
 
 I recently attended Expolit, a conference focused on the Spanish Christian publishing industry. My goal was to get licensing rights to books and study guides to sell as in-app purchases inside our mobile apps.
 

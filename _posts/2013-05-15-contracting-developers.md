@@ -1,12 +1,12 @@
 ---
 layout: post
 title: What Everybody Should Know About Contracting Developers
-category: first-year-in-app-store
+category: my-first-year-in-the-app-store
 ---
 
 This is post #4 of my 8 post series on my first year in the App Store.
 
-You can [read the full series here]({{ root_url }}/first-year-in-app-store/)
+You can [read the full series here]({{ root_url }}/my-first-year-in-the-app-store/)
 
 One of the key pieces of my success this last year has been working with the right developer at the right price.
 

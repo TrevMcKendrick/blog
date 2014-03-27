@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How to Find a Profitable Niche – Part 2
-category: first-year-in-app-store
+category: my-first-year-in-the-app-store
 ---
 This is post #3 of my 8 post series on my first year in the App Store.
 
-You can [read the full series here]({{ root_url }}/first-year-in-app-store/)
+You can [read the full series here]({{ root_url }}/my-first-year-in-the-app-store/)
 
 This post is a continuation of last week. I wrote there are 3 parts parts to the ideal profitable niche:
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How to Choose a Profitable Niche
-category: first-year-in-app-store
+category: my-first-year-in-the-app-store
 ---
 
 This is post #2 of my 8 post series on my first year in the App Store.
 
-You can [read the full series here]({{ root_url }}/first-year-in-app-store/)
+You can [read the full series here]({{ root_url }}/my-first-year-in-the-app-store/)
 
 **tl;dr We can estimate how profitable an app is using Gross and Paid Rankings. This helps us decide whether it’s a good niche to get into.**
 

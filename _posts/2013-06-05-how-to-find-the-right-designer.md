@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Find the Right Designer
-category: first-year-in-app-store
+category: my-first-year-in-the-app-store
 ---
 
 This is post #7 of my 8 post series on my first year in the App Store.
@@ -126,7 +126,7 @@ Thanks! Trevor
 
 You can [follow me on Twitter here][28]. If you’re like me and have stopped using Google Reader you can get email updates sent to you by signing up here:
 
-   [2]: {{ root_url }}/first-year-in-app-store/
+   [2]: {{ root_url }}/my-first-year-in-the-app-store/
    [3]: http://www.trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
    [4]: http://www.trevormckendrick.com/contracting-developers/
    [5]: http://www.trevormckendrick.com/how-to-attend-a-conference/
