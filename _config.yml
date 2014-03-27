@@ -4,6 +4,8 @@ url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
+# permalink: /:title
+
 # Theme customization - please change from the defaults!
 theme:
   # Color for top bar, links, etc
@@ -25,7 +27,7 @@ theme:
   # "Hi, I'm _______"
   name: Trevor McKendrick
   email: trevormckendrick@gmail.com
-  tagline: "weak opinions, strongly held"
+  # tagline: "weak opinions, strongly held"
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
