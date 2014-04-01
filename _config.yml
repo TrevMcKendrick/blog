@@ -1,9 +1,9 @@
 # General Jekyll Config
 pygments: true
-url: http://example.com
+# url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
-markdown: rdiscount
+markdown: Maruku
 
 permalink: /:title
 
