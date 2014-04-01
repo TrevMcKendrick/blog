@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: bookreview
 title: The Passage of Power
 category: bookreview
+amazon: http://www.amazon.com/gp/product/0679405070/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0679405070&linkCode=as2&tag=trevmcke-20">The Passage of Power, by Robert Caro</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=trevmcke-20&l=as2&o=1&a=0679405070" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;
 ---
-<section class="book-writeup">
-![My helpful screenshot]({{ site.url }}/assets/images/power.jpg)
-</section>
+
+[![Image]({{ site.url }}/assets/images/power.jpg) ]({{ page.amazon }})
+<hr>
+
 
 **Summary**  
 *The Passage of Power* covers the time from Lyndon B. Johnson's failed presidential campaign in 1960 to his first State of the Union address 7 weeks after JFK's assassination. It's the fourth of a five book series on LBJ.
