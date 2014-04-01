@@ -3,6 +3,7 @@ pygments: true
 url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
+markdown: redcarpet
 
 permalink: /:title
 
