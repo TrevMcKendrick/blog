@@ -1,9 +1,12 @@
 ---
-layout: post
+layout: bookreview
 title: Double Down
 category: bookreview
+amazon: http://www.amazon.com/Double-Down-Game-Change-2012/dp/1594204403/?tag=trevmcke-20
 ---
-One-line Summary:
+[![Image]({{ site.url }}/assets/images/dd.jpg) ]({{ page.amazon }})
+<hr>
+**Summary**  
 Inside story of the 2012 presidential election.
 
 If you enjoy politics and wonder what happens behind the scenes during elections you will thoroughly enjoy this book. 

@@ -2,9 +2,8 @@
 layout: bookreview
 title: The Passage of Power
 category: bookreview
-amazon: http://www.amazon.com/gp/product/0679405070/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0679405070&linkCode=as2&tag=trevmcke-20">The Passage of Power, by Robert Caro</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=trevmcke-20&l=as2&o=1&a=0679405070" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;
+amazon: http://www.amazon.com/Passage-Power-Years-Lyndon-Johnson/dp/1491518847/?tag=trevmcke-20
 ---
-
 [![Image]({{ site.url }}/assets/images/power.jpg) ]({{ page.amazon }})
 <hr>
 
@@ -25,5 +24,5 @@ But he was also the guy who passed Civil Rights. Even FDR, with all the liberal 
 
 The book is fascinating. Robert Caro is a fantastic biographer and fills the book with deeply interesting and detailed stories.
 
-**Recommendation**
+**Recommendation**  
 If you enjoy reading about politics, great men, or biographies of famous people, you will be hard pressed to find a better book. If you don't typically enjoy non-fiction, or if politics bores or frustrates you, I'd pass on this one.
