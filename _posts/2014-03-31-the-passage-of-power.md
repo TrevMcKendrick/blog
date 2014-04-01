@@ -6,10 +6,10 @@ category: bookreview
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetAdHtml&ID=OneJS&OneJS=1&source=ss&ref=ss_til&ad_type=product_link&tracking_id=trevmcke-20&marketplace=amazon&region=US&placement=0679405070&asins=0679405070&show_border=true&link_opens_in_new_window=true&MarketPlace=US"></iframe>
 
-**Summary**
+**Summary**  
 *The Passage of Power* covers the time from Lyndon B. Johnson's failed presidential campaign in 1960 to his first State of the Union address 7 weeks after JFK's assassination. It's the fourth of a five book series on LBJ.
 
-**Details**
+**Details**  
 I didn't know anything about LBJ before this book other than hearing about "the Johnson treatment" and that he gets much of the blame for the Vietnam War.
 
 So the book taught me a lot.  For example, he was *the* guy in the Senate, as Majority leader, from 1948 until 1960. He was a master politician with a ton of legitimate power.
@@ -22,5 +22,5 @@ But he was also the guy who passed Civil Rights. Even FDR, with all the liberal 
 
 The book is fascinating. Robert Caro is a fantastic biographer and fills the book with deeply interesting and detailed stories.
 
-**Recommendation**
+**Recommendation**  
 If you enjoy reading about politics, great men, or biographies of famous people, you will be hard pressed to find a better book. If you don't typically enjoy non-fiction, or if politics bores or frustrates you, I'd pass on this one.
