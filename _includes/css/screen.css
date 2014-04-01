@@ -253,3 +253,10 @@ i.fa-hn {
   font-size: smaller;
   padding-bottom: 10px
 }
+
+.book-writeup p img {
+padding: 5px;
+border: 1px solid #AAA;
+border-radius: 3px;
+box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+}

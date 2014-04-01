@@ -3,7 +3,9 @@ layout: post
 title: The Passage of Power
 category: bookreview
 ---
+<section class="book-writeup">
 ![My helpful screenshot]({{ site.url }}/assets/images/power.jpg)
+</section>
 
 **Summary**  
 *The Passage of Power* covers the time from Lyndon B. Johnson's failed presidential campaign in 1960 to his first State of the Union address 7 weeks after JFK's assassination. It's the fourth of a five book series on LBJ.
