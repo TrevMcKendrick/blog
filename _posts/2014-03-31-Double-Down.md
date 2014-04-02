@@ -8,7 +8,7 @@ amazon: http://www.amazon.com/Double-Down-Game-Change-2012/dp/1594204403/?tag=tr
 <hr>
 
 
-**Summary**  
+**One Sentence Summary**  
 Inside story of the 2012 presidential election.
 
 **Details**  
@@ -22,5 +22,5 @@ Lots of good stuff, but here are a few highlights:
 
 It appears the writers had pretty good access, and the book's truthfulness has been vouched by some characters in the book.
 
-**Recommendation**  
+**Would You Like It?**  
 If you enjoy politics and want to see a bit more behind the scenes you will likely enjoy this book. My only hesitation would be that some parts seem a little embellished and exaggerrated.

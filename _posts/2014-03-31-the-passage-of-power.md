@@ -24,5 +24,5 @@ But he was also the guy who passed Civil Rights. Even FDR, with all the liberal 
 
 The book is fascinating. Robert Caro is a fantastic biographer and fills the book with deeply interesting and detailed stories.
 
-**Recommendation**  
+**Would You Like It?**  
 If you enjoy reading about politics, great men, or biographies of famous people, you will be hard pressed to find a better book. If you don't typically enjoy non-fiction, or if politics bores or frustrates you, I'd pass on this one.
