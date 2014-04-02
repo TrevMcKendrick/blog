@@ -1,13 +1,12 @@
 ---
 layout: post
 title: What Everybody Should Know About Contracting Developers
-category: my-first-year-in-the-app-store
-category: blog
+categories: blog app_store_series
 ---
 
 This is post #4 of my 8 post series on my first year in the App Store.
 
-You can [read the full series here]({{ root_url }}/my-first-year-in-the-app-store/)
+You can [read the full series here]({{ root_url }}/app-store-series/)
 
 One of the key pieces of my success this last year has been working with the right developer at the right price.
 
@@ -133,15 +132,15 @@ That’s exactly why I _should_ pay quickly. It will surprise them and they’ll
 **In Summary**  
 Depending on your project goals you can find a good developer at a reasonable price. And if you treat them well that relationship can grow into something powerful.
 
-You can [follow me on Twitter here][10]. And if you’re like me and have stopped using Google Reader you can get the remaining 6 posts delivered to your email every Tuesday by signing up here:
+You can [follow me on Twitter here][10].
 
    [1]: http://trevormckendrick.com/my-first-year-in-the-app-store/
    [2]: http://trevormckendrick.com/how-to-choose-a-profitable-niche/
    [3]: http://trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
-   [4]: http://trevormckendrick.com/wp-content/uploads/2013/05/Dev-Spectrum.png
+   [4]: {{root_url}}/assets/images/Dev-Spectrum.png
    [5]: http://popapp.in/
-   [6]: http://trevormckendrick.com/wp-content/uploads/2013/05/mockup-2.png
-   [7]: http://trevormckendrick.com/wp-content/uploads/2013/05/mockup-1.png
+   [6]: {{root_url}}/assets/images/mockup-2.png
+   [7]: {{root_url}}/assets/images/mockup-1.png
    [8]: http://trevormckendrick.com/wp-content/uploads/2013/05/first-screenshot.png
    [9]: https://twitter.com/_bartjacobs
    [10]: https://twitter.com/TrevMcKendrick

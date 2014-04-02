@@ -1,13 +1,12 @@
 ---
 layout: post
 title: How to Attend a Conference
-category: my-first-year-in-the-app-store
-category: blog
+categories: blog app_store_series
 ---
 
 This is post #5 of my 8 post series on my first year in the App Store.
 
-You can [read the full series here]({{ root_url }}/my-first-year-in-the-app-store/)
+You can [read the full series here]({{ root_url }}/app-store-series/)
 
 I recently attended Expolit, a conference focused on the Spanish Christian publishing industry. My goal was to get licensing rights to books and study guides to sell as in-app purchases inside our mobile apps.
 
@@ -109,7 +108,7 @@ Without it I’d have to reread every email chain to remember who the person is,
 **Conclusion**  
 The jury is still out on whether we’ll close all the licensing deals we like. But so far this conference has been a success for us.
 
-You can [follow me on Twitter here][3]. If you’re like me and have stopped using Google Reader you can get email updates sent to you by signing up here:
+You can [follow me on Twitter here][3].
 
 
    [2]: http://trevormckendrick.com/wp-content/uploads/2013/05/Tracker.png

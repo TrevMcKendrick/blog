@@ -1,13 +1,12 @@
 ---
 layout: post
 title: My First Year in the App Store
-category: my-first-year-in-the-app-store
-category: blog
+categories: blog app_store_series
 ---
 
 This is post #1 of my 8 post series on my first year in the App Store.
 
-You can [read the full series here]({{ root_url }}/my-first-year-in-the-app-store/)
+You can [read the full series here]({{ root_url }}/app-store-series/)
 
 I released my first app one year ago yesterday. It started as a small side project with the explicit goal of paying my rent.
 

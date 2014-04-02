@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Email Marketing with iOS
-category: my-first-year-in-the-app-store
-category: blog
+categories: blog app_store_series
 ---
 
 This is post #8 of my 8 post series on my first year in the App Store.
@@ -47,15 +46,14 @@ Below you can see the jump our revenue did the day we blasted out an offer. I re
 
 That’s it. We haven’t really even scratched the surface on the potential of email marketing, but the little we’ve done is working.
 
-   [1]: http://.trevormckendrick.com/my-first-year-in-the-app-store/
-   [2]: {{ root_url }}/my-first-year-in-the-app-store/
-   [3]: http://.trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
-   [4]: http://.trevormckendrick.com/contracting-developers/
-   [5]: http://.trevormckendrick.com/how-to-attend-a-conference/
-   [6]: http://.trevormckendrick.com/startups-for-the-99/
-   [7]: http://.trevormckendrick.com/how-to-find-the-right-designer/
-   [8]: http://.trevormckendrick.com/wp-content/uploads/2013/06/photo1.png
-   [9]: http://.trevormckendrick.com/on-why-vesper-will-succeed/
+   [2]: {{ root_url }}/app-store-series/
+   [3]: http://trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
+   [4]: http://trevormckendrick.com/contracting-developers/
+   [5]: http://trevormckendrick.com/how-to-attend-a-conference/
+   [6]: http://trevormckendrick.com/startups-for-the-99/
+   [7]: http://trevormckendrick.com/how-to-find-the-right-designer/
+   [8]: http://trevormckendrick.com/wp-content/uploads/2013/06/photo1.png
+   [9]: http://trevormckendrick.com/on-why-vesper-will-succeed/
    [10]: http://salemsoftware.org/
-   [11]: http://.trevormckendrick.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-17-at-12.29.25-PM.png
+   [11]: http://trevormckendrick.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-17-at-12.29.25-PM.png
   

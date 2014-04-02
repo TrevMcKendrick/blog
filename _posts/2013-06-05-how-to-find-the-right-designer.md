@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How to Find the Right Designer
-category: my-first-year-in-the-app-store
-category: blog
+categories: blog app_store_series
 ---
 
 This is post #7 of my 8 post series on my first year in the App Store.
@@ -125,9 +124,9 @@ Thanks! Trevor
 
 **Finalize scope/price/payment schedule** This is simply to establish clear expectations on both ends. They have to know what they’re providing you, at what times, and when they’ll get paid. You need to know exactly what you’re getting. Don’t get lazy and treat this lightly; you’ll likely regret it later when you disagree on whether a particular deliverable was in scope.
 
-You can [follow me on Twitter here][28]. If you’re like me and have stopped using Google Reader you can get email updates sent to you by signing up here:
+You can [follow me on Twitter here][28].
 
-   [2]: {{ root_url }}/my-first-year-in-the-app-store/
+   [2]: {{ root_url }}/app-store-series/
    [3]: http://trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
    [4]: http://trevormckendrick.com/contracting-developers/
    [5]: http://trevormckendrick.com/how-to-attend-a-conference/
@@ -154,6 +153,5 @@ You can [follow me on Twitter here][28]. If you’re like me and have stopped us
    [26]: http://trevormckendrick.com/wp-content/uploads/2013/06/bottom_2.png_preview_282x500.png
    [27]: http://youtube.com/watch?v=UF8uR6Z6KLc
    [28]: https://twitter.com/TrevMcKendrick
-   [29]: https://twitter.com/intent/tweet?text="How to Find the Right Designer"%20/how-to-find-the-right-designer%20via%20@trevmckendrick
 
   
