@@ -128,31 +128,31 @@ Thanks! Trevor
 You can [follow me on Twitter here][28]. If you’re like me and have stopped using Google Reader you can get email updates sent to you by signing up here:
 
    [2]: {{ root_url }}/my-first-year-in-the-app-store/
-   [3]: http://www.trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
-   [4]: http://www.trevormckendrick.com/contracting-developers/
-   [5]: http://www.trevormckendrick.com/how-to-attend-a-conference/
-   [6]: http://www.trevormckendrick.com/startups-for-the-99/
+   [3]: http://trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
+   [4]: http://trevormckendrick.com/contracting-developers/
+   [5]: http://trevormckendrick.com/how-to-attend-a-conference/
+   [6]: http://trevormckendrick.com/startups-for-the-99/
    [7]: https://twitter.com/helloiamvu
    [8]: https://csshat.com/
    [9]: http://abdoc.net/
    [10]: http://99designs.com/
-   [11]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/SalemSoftware_fullcolor-300x150.jpg
-   [12]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/big_audio_1024-jpg-150x150.jpg
-   [13]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/audio-screen-shot-1-169x300.jpg
-   [14]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/icon-150x150.png
-   [15]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/Homepage-1-169x300.jpg
-   [16]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/Favorites-1-169x300.jpg
+   [11]: http://trevormckendrick.com/wp-content/uploads/2013/06/SalemSoftware_fullcolor-300x150.jpg
+   [12]: http://trevormckendrick.com/wp-content/uploads/2013/06/big_audio_1024-jpg-150x150.jpg
+   [13]: http://trevormckendrick.com/wp-content/uploads/2013/06/audio-screen-shot-1-169x300.jpg
+   [14]: http://trevormckendrick.com/wp-content/uploads/2013/06/icon-150x150.png
+   [15]: http://trevormckendrick.com/wp-content/uploads/2013/06/Homepage-1-169x300.jpg
+   [16]: http://trevormckendrick.com/wp-content/uploads/2013/06/Favorites-1-169x300.jpg
    [17]: mailto:aditya26j%40gmail.com
-   [18]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/Wiesinger-Music-300x300.jpg
-   [19]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/flight-finder-300x225.jpg
-   [20]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/ob.jpg
-   [21]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/sample-feedback-300x180.png
+   [18]: http://trevormckendrick.com/wp-content/uploads/2013/06/Wiesinger-Music-300x300.jpg
+   [19]: http://trevormckendrick.com/wp-content/uploads/2013/06/flight-finder-300x225.jpg
+   [20]: http://trevormckendrick.com/wp-content/uploads/2013/06/ob.jpg
+   [21]: http://trevormckendrick.com/wp-content/uploads/2013/06/sample-feedback-300x180.png
    [22]: http://startupgrind.com/
    [23]: http://startupgrind.com/2013/05/the-story-of-startup-grind-and-99designs/
    [24]: http://dribbble.com/
-   [25]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/reader_spanish.png_preview_282x500.png
-   [26]: http://www.trevormckendrick.com/wp-content/uploads/2013/06/bottom_2.png_preview_282x500.png
-   [27]: http://www.youtube.com/watch?v=UF8uR6Z6KLc
+   [25]: http://trevormckendrick.com/wp-content/uploads/2013/06/reader_spanish.png_preview_282x500.png
+   [26]: http://trevormckendrick.com/wp-content/uploads/2013/06/bottom_2.png_preview_282x500.png
+   [27]: http://youtube.com/watch?v=UF8uR6Z6KLc
    [28]: https://twitter.com/TrevMcKendrick
    [29]: https://twitter.com/intent/tweet?text="How to Find the Right Designer"%20/how-to-find-the-right-designer%20via%20@trevmckendrick
 

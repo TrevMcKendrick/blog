@@ -135,14 +135,14 @@ Depending on your project goals you can find a good developer at a reasonable pr
 
 You can [follow me on Twitter here][10]. And if you’re like me and have stopped using Google Reader you can get the remaining 6 posts delivered to your email every Tuesday by signing up here:
 
-   [1]: http://www.trevormckendrick.com/my-first-year-in-the-app-store/
-   [2]: http://www.trevormckendrick.com/how-to-choose-a-profitable-niche/
-   [3]: http://www.trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
-   [4]: http://www.trevormckendrick.com/wp-content/uploads/2013/05/Dev-Spectrum.png
+   [1]: http://trevormckendrick.com/my-first-year-in-the-app-store/
+   [2]: http://trevormckendrick.com/how-to-choose-a-profitable-niche/
+   [3]: http://trevormckendrick.com/how-to-find-a-profitable-niche-part-2/
+   [4]: http://trevormckendrick.com/wp-content/uploads/2013/05/Dev-Spectrum.png
    [5]: http://popapp.in/
-   [6]: http://www.trevormckendrick.com/wp-content/uploads/2013/05/mockup-2.png
-   [7]: http://www.trevormckendrick.com/wp-content/uploads/2013/05/mockup-1.png
-   [8]: http://www.trevormckendrick.com/wp-content/uploads/2013/05/first-screenshot.png
+   [6]: http://trevormckendrick.com/wp-content/uploads/2013/05/mockup-2.png
+   [7]: http://trevormckendrick.com/wp-content/uploads/2013/05/mockup-1.png
+   [8]: http://trevormckendrick.com/wp-content/uploads/2013/05/first-screenshot.png
    [9]: https://twitter.com/_bartjacobs
    [10]: https://twitter.com/TrevMcKendrick
   

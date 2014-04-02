@@ -65,8 +65,8 @@ If it looks like the competition isn’t trying very hard but they’re still ma
 
 You can [follow me on Twitter here][4].
 
-   [1]: http://www.trevormckendrick.com/my-first-year-in-the-app-store/
-   [2]: http://www.trevormckendrick.com/how-to-choose-a-profitable-niche/
+   [1]: http://trevormckendrick.com/my-first-year-in-the-app-store/
+   [2]: http://trevormckendrick.com/how-to-choose-a-profitable-niche/
    [3]: http://www.straply.com/
    [4]: https://twitter.com/TrevMcKendrick
   

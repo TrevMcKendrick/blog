@@ -54,19 +54,19 @@ In next Tuesday’s post I’ll write about how to pick a niche where users will
 
 You can [follow me on Twitter here][15]
    
-   [1]: http://www.trevormckendrick.com/my-first-year-in-the-app-store/
+   [1]: http://trevormckendrick.com/my-first-year-in-the-app-store/
    [2]: https://itunes.apple.com/us/app/pdf-expert-professional-pdf/id323133888?mt=8
-   [3]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/PDF-Expert-Paid.png
+   [3]: http://trevormckendrick.com/wp-content/uploads/2013/04/PDF-Expert-Paid.png
    [4]: https://itunes.apple.com/us/app/documents/id295798315?mt=8
-   [5]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/Documents-Paid.png
+   [5]: http://trevormckendrick.com/wp-content/uploads/2013/04/Documents-Paid.png
    [6]: https://twitter.com/gert_jan
    [7]: http://www.distimo.com/blog/2012_05_quora-answering-series-download-volume-needed-to-hit-top-25-per-category/
    [8]: http://techcrunch.com/2012/05/16/how-many-daily-downloads-does-it-take-to-reach-the-top-of-the-app-store/
-   [9]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/Distimo-Chart.png
-   [10]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/daily-revenue-table.png
-   [11]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/PDF_Expert_Gross.png
-   [12]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/Documents_Gross.png
-   [13]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/gross-rank-%2B-revenue-table.png
-   [14]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/Business-Gross-Ranking-Chart1.png
+   [9]: http://trevormckendrick.com/wp-content/uploads/2013/04/Distimo-Chart.png
+   [10]: http://trevormckendrick.com/wp-content/uploads/2013/04/daily-revenue-table.png
+   [11]: http://trevormckendrick.com/wp-content/uploads/2013/04/PDF_Expert_Gross.png
+   [12]: http://trevormckendrick.com/wp-content/uploads/2013/04/Documents_Gross.png
+   [13]: http://trevormckendrick.com/wp-content/uploads/2013/04/gross-rank-%2B-revenue-table.png
+   [14]: http://trevormckendrick.com/wp-content/uploads/2013/04/Business-Gross-Ranking-Chart1.png
    [15]: https://twitter.com/TrevMcKendrick
   

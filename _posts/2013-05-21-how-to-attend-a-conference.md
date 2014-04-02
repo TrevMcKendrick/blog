@@ -112,7 +112,7 @@ The jury is still out on whether we’ll close all the licensing deals we like. 
 You can [follow me on Twitter here][3]. If you’re like me and have stopped using Google Reader you can get email updates sent to you by signing up here:
 
 
-   [2]: http://www.trevormckendrick.com/wp-content/uploads/2013/05/Tracker.png
+   [2]: http://trevormckendrick.com/wp-content/uploads/2013/05/Tracker.png
    [3]: https://twitter.com/TrevMcKendrick
 
   
