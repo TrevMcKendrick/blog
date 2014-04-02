@@ -61,8 +61,8 @@ And May 1st I’m flying to a Spanish Christian publishing conference in Miami c
 
 All of this from a little app that I launched for less than $500.
 
-   [1]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/Version-11.png
-   [2]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/Version-21.png
-   [3]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/la-foto-31.png
-   [4]: http://www.trevormckendrick.com/wp-content/uploads/2013/04/la-foto-1.png
+   [1]: http://trevormckendrick.com/wp-content/uploads/2013/04/Version-11.png
+   [2]: http://trevormckendrick.com/wp-content/uploads/2013/04/Version-21.png
+   [3]: http://trevormckendrick.com/wp-content/uploads/2013/04/la-foto-31.png
+   [4]: http://trevormckendrick.com/wp-content/uploads/2013/04/la-foto-1.png
   
