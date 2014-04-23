@@ -2,5 +2,4 @@ _site/
 .DS_Store
 .*.swp
 .idea
-_jekyll_s3.yml
 s3_website.yml

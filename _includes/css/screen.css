@@ -48,7 +48,7 @@ ul {
 }
 
 a {
-  color: #000000;
+  color: {{ site.theme.highlight_color }};
   text-decoration: none;
 }
 
