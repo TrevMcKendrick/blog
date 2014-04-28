@@ -15,7 +15,7 @@ While nowhere close to TechCrunch success, I'm extremely proud of how well it's 
 
 (Last year I wrote a post about [the first year]({{ root_url }}/my-first-year-in-the-app-store) but quick summary since you're busy: I made a Spanish Bible app for $500. It did $1,500 in revenue the first month and has grown ever since.)
 
-I tweeted last week asking what people want to hear about, and a big request was numbers. (All numbers are after Apple's 30%):
+I tweeted last week asking what people want to hear about and some said they wanted detailed numbers, so here you go. All numbers are after Apple's 30%:
 
 **Best Month – Sales**	
 January – $11,358.85
@@ -70,11 +70,15 @@ Friday
 If you're still reading, here are a few of my thoughts on the App Store, and a few highlights from the year:
 
 **Behold Apple Giveth and Apple Taketh Away; Blessed be the name of Apple**  
-My #1 cause for worry is that Apple controls everything. They could change their search algorithm, or even worse, decide we're doing something they don't like and turn us off altogether.
+My #1 cause for worry is that Apple controls everything. They could change their search algorithm, or worse, decide to turn us off altogether.
 
 This isn't a diss though. There are pros and cons to playing on others' platforms, and I accepted that when I launched our first app.
 
-In the case of Apple, the deal is this: they give me access to hundreds of millions of above-average income consumers and their credits cards, and I agree to play by their rules, that they own the relationship with the customer, and that they can decide to turn me away if they so choose.
+In the case of Apple, the deal is this: 
+
+They give me access to hundreds of millions of above-average income consumers and their credits cards. 
+
+I agree to play by their rules, that they own the relationship with the customer, and that they can decide to turn me away if they so choose.
 
 That deal has worked out great for me, but it doesn't mean I don't worry about worst case scenarios.
 
@@ -86,24 +90,28 @@ Even when we finally did launch (albeit with fewer features than I originally wa
 This tends to surprise people given our target demographic of native Spanish speakers. It surprised me, too. I will not be trying Android again any time soon.
 
 **Don't Be Romantic About How You Make Money**  
-I don't remember where I read this, but it's absolutely true.
+(AKA, Google is an Advertising Company)
+
+I don't remember where I that title, but it's absolutely true.
 
 Year 1 all revenue came from content I own 100%. 
 
-Year 2, my goal was to grow a library of Spanish eBooks to sell as in-app purchases. The hypothesis was that if we could become the #1 place to find Spanish Christian content, it would boost downloads and sales.
+Year 2 my goal was to grow a library of licensed Spanish eBooks to sell as in-app purchases. 
 
-So I started talking to publishers, and we eventually licensed over 100 books from Harper Collins, LifeWay, Casa Promesa, and other publishers in and outside of the US. Not a huge amount, but enough to try this out.
+The hypothesis was that if we could become the #1 place to find Spanish Christian content it would boost downloads and sales.
+
+So I began talking to publishers and we eventually licensed over 100 books from Harper Collins, LifeWay, Casa Promesa, and others in and outside the US. Not a huge amount, but enough to try this out.
 
 The problem is that these licensing deals require a few things:  
 1. A royalty that eats into our margins  
 2. Attention to get the books ported into our library  
-3. Attention to calculate royalties, manage licensing manager relationships, etc.  
+3. Attention to calculate and pay royalties, manage licensing manager relationships, etc.  
 
 And for what? Our revenue increased this year, but only because we launched a brand new version of our main app. With royalties cutting into our previously sky-high margins, I don't think the ebook library hypothesis worked.
 
-I don't regret trying the experiment, but I got too far away from the real reason we make money: people like our Bible audiobook. That's it. 
+I don't regret trying the experiment, but I got too far away from the real reason we make money: people like our Bible audiobook.
 
-It sounds great, and people pay extra for audiobooks. 
+It sounds great, and people pay extra for audiobooks. That's it. Don't get romantic about how you make money
 
 ***Highlights from the year***   
 
