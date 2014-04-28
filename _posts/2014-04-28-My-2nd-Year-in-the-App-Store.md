@@ -140,3 +140,5 @@ My [partner](https://twitter.com/mikeperley) and I won a $20,000 grant from the 
 Nothing to announce today, but here's a sneak peak [of the logo](http://buffer-uploads.s3.amazonaws.com/000000000000000000015056/3ec157eb7ea28717d922c27bb57eb6e9.jpg).
 
 All in all it's been a great year. And it all started by an app I built for $500.
+
+You can follow me on [Twitter here](http://twitter.com/trevmckendrick)
