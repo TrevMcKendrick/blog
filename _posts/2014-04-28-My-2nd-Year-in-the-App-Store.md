@@ -10,12 +10,11 @@ My 1st year net revenue was $73, 034, after Apple's cut.
 
 My 2nd year net revenue increased to $100,134, again after Apple's cut. 
 
-While nowhere close to TechCrunch success, I'm extremely proud of how well it's turned out (and our [customers seem to like it, too]({{ root_url }}/assets/images/5-stars.png)
-). 
+While nowhere close to TechCrunch success, I'm extremely proud of how well it's turned out, and our [customers seem to like it, too]({{ root_url }}/assets/images/5-stars.png). 
 
-(Last year I wrote a post about [the first year]({{ root_url }}/my-first-year-in-the-app-store) but quick summary since you're busy: I made a Spanish Bible app for $500. It did $1,500 in revenue the first month and has grown ever since.)
+(Last year I wrote a post about [the first year]({{ root_url }}/my-first-year-in-the-app-store) but here's a quick summary since you're busy: I made a Spanish Bible app for $500. It did $1,500 in revenue the first month and has grown ever since.)
 
-I tweeted last week asking what people want to hear about and some said they wanted detailed numbers, so here you go. All numbers are after Apple's 30%:
+Last week I tweeted asking what people wanted to hear about and some said they wanted detailed numbers, so here you go. All numbers are after Apple's 30%:
 
 **Best Month – Sales**	
 January – $11,358.85
