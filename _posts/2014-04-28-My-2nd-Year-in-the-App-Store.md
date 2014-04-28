@@ -90,9 +90,9 @@ Even when we finally did launch (albeit with fewer features than I originally wa
 This tends to surprise people given our target demographic of native Spanish speakers. It surprised me, too. I will not be trying Android again any time soon.
 
 **Don't Be Romantic About How You Make Money**  
-(AKA, Google is an Advertising Company)
+(AKA, Remember Google is an Advertising Company)
 
-I don't remember where read I that title, but it's absolutely true.
+I don't remember where I read that title, but it's absolutely true.
 
 Year 1 all revenue came from content I own 100%. 
 
@@ -103,6 +103,7 @@ The hypothesis was that if we could become the #1 place to find Spanish Christia
 So I began talking to publishers and we eventually licensed over 100 books from Harper Collins, LifeWay, Casa Promesa, and others in and outside the US. Not a huge amount, but enough to try this out.
 
 The problem is that these licensing deals require a few things:  
+
 1. A royalty that eats into our margins  
 2. Attention to get the books ported into our library  
 3. Attention to calculate and pay royalties, manage licensing manager relationships, etc.  
@@ -127,7 +128,7 @@ I spent 3 months in New York learning Rails at [the Flatiron School](http://flat
 
 Coding schools have various reputations depending on who you talk to, but I can't recommend the Flatiron School enough. 
 
-If you put in the time before and during school, you'll likely be good enough to get a junior developer job when you graduate. (That wasn't my goal, but many of my friends now have jobs all over the country as developers.)
+If you put in the time before and during school, you'll likely be good enough to get a junior developer job when you graduate. (That wasn't my goal but many of my friends now have jobs all over the country as developers.)
 
 Bonus: Somehow I got the nickname "Biblia Jefe", which means Bible boss. It was a fun 3 months.
 
@@ -138,4 +139,4 @@ My [partner](https://twitter.com/mikeperley) and I won a $20,000 grant from the 
 
 Nothing to announce today, but here's a sneak peak [of the logo](http://buffer-uploads.s3.amazonaws.com/000000000000000000015056/3ec157eb7ea28717d922c27bb57eb6e9.jpg).
 
-All in all it's been a great year. And all started by an app I built for $500.
+All in all it's been a great year. And it all started by an app I built for $500.
