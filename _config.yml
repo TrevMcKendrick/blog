@@ -3,7 +3,7 @@ pygments: true
 url: http://www.trevormckendrick.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
-markdown: redcarpet
+markdown: kramdown
 
 permalink: /:title
 
@@ -16,7 +16,7 @@ theme:
   social:
     #github: trevmckendrick
     #bitbucket: philipj
-    hacker_news: trevmckendrick
+    #hacker_news: trevmckendrick
     #stackexchange: 348619
     #stackoverflow: 348619
     twitter: trevmckendrick
@@ -35,3 +35,5 @@ theme:
 
   # Toggle "Postings are my own" disclaimer in footer
   show_disclaimer: false
+
+  follow_me: I'd love to meet you on <a href="https://twiter.com/trevmckendrick"Twitter</a>.

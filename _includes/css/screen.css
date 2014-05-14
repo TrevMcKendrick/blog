@@ -11,7 +11,7 @@ body {
   font-size: 16px;
   background-color: white;
   color: #222222;
-  line-height: 24px;
+  line-height: 27px;
   margin: 0;
   border-top: 7px solid {{ site.theme.highlight_color }};
 }
@@ -20,6 +20,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #181818;
   font-family: "open sans", sans-serif;
   font-weight: 400;
+}
+
+hr {
+  border: solid #F4F3F3 2px;
+  width: 80%;
+  margin: 40px auto;
 }
 
 h1.title {
@@ -131,6 +137,7 @@ nav hr {
   margin-left: 1.35em;
 }
 
+
 #post code {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -140,6 +147,10 @@ nav hr {
 
 #post pre code {
   border: none;
+}
+
+#post {
+  width:85%;
 }
 
 .sidebar {
@@ -165,7 +176,7 @@ nav hr {
 }
 
 .footer {
-  width: 100%;
+  width: 85%;
 }
 
 .footer {
@@ -235,8 +246,8 @@ i.fa-hn {
 }
 
 .footnotes {
-  font-size: 14px;
-  font-style: italic;
+  font-size: 13px;
+  /*font-style: italic;*/
 }
 
 .icon-overlay {
