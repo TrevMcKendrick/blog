@@ -88,6 +88,7 @@ ul.posts li {
   line-height: 22px;
   font-size: 16px;
   margin-bottom: 0px;
+  line-height: 1.8;
 }
 
 ul.posts span {
@@ -192,7 +193,7 @@ nav hr {
 }
 
 #home h2 {
-  color: {{ site.theme.highlight_color }};
+  color: {{ site.theme.section_title_color }};
 }
 
 #logo {

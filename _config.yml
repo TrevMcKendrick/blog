@@ -11,6 +11,7 @@ permalink: /:title
 theme:
   # Color for top bar, links, etc
   highlight_color: '#3498db'
+  section_title_color: "#181818"
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
