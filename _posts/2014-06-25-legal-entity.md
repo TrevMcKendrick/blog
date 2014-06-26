@@ -88,7 +88,4 @@ Like many things in running a business, picking which entity is something that y
 
 I've never heard someone say "my business would have done great if only I'd make a better legal entity decision."
 
-
-
-
 {% include mailchimp.html %}
