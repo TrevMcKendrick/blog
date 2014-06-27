@@ -33,17 +33,17 @@ But you also have to pay more legal costs to get started, file a ton of addition
 
 "Double taxation" refers to when both the company itself and its shareholders pay taxes on income.
 
-For example, a company like Apple makes a profit and pays a corporate tax on that income. But if you bought shares in Apple and they issued a dividend, you'd have to pay tax on that dividend, too. So both the entity itself and its shareholders pay tax on the same income
+For example, a company like Apple makes a profit and pays a corporate tax on that income. But if you bought shares in Apple and they issued a dividend, you'd have to pay tax on that dividend, too. So both the entity itself and its shareholders pay tax on the same income.
 
 C corporations are the only entity which require double taxation.
 
 *Recommended if:*  
 - You're doing a startup  
-- You're raising money from many investors (or from foreign invesetors)
+- You're raising money from many investors (or from foreign invesetors)  
 - You plan to issue stock options to employees  
 
 *Not a good fit if:*  
-- You don't want a more complicated and expensive setup process
+- You don't want a more complicated and expensive setup process  
 - You don't want to pay taxes twice on your business income  
 - You don't want to have board meetings and keep minutes  
 
@@ -66,13 +66,13 @@ There are a few drawbacks. Mainly, S corps can have only up to 100 shareholders.
 
 
 **Limited Liability Corporation (LLC)**  
-Frankly, if you're just starting your first business you could probably setup an LLC and be fine. Even Facebook, which is now a C corporation, was [originally setup as an LLC in Florica](http://gawker.com/5643915/mark-zuckerberg-describes-the-dirty-tricks-that-led-to-the-facebook-movie) 
+Frankly, if you're just starting your first business you could probably setup an LLC and be fine. Even Facebook, which is now a C corporation, was [originally setup as an LLC in Florida](http://gawker.com/5643915/mark-zuckerberg-describes-the-dirty-tricks-that-led-to-the-facebook-movie). 
 
 LLC's are a lot cheaper and simpler to start (a couple hundred bucks, depending on the state), provide more flexibilty, and give personal liability protection.
 
 The main downside of an LLC is that, by default, *all net income* is subject to self-employment taxes.
 
-The good news is that you can make an S corp election so that only your salary is subjected to self-employment tax. The rest of your net income is considered a "distribution" and taxed at capital gains rates, if at all.
+(The good news is that you can make an S corp election so that only your salary is subjected to self-employment tax. The rest of your net income is considered a "distribution" and taxed at capital gains rates, if at all. But that's worthy of a separate post.)
 
 An LLC is recommended if:  
 - You want the simplest and cheapest way to limit your liability  
