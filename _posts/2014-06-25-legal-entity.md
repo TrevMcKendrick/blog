@@ -22,7 +22,7 @@ So assuming you don't want to be a sole proprietor, here are your options in the
 
 **C corporation**  
 **S corporation (S corp)**  
-**Limited liability corporation (LLC)**  
+**Limited liability company (LLC)**  
 
 **C corporation**  
 Practically all companies on the stock market (Facebook, Google, Wal-Mart, etc.) are C corporations. 
