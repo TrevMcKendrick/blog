@@ -87,5 +87,3 @@ Not a good fit if:
 Like many things in running a business, picking which entity is something that you shouldn't get stuck on for too long. Do your research, talk to a CPA if you like, then make the decision and move on.
 
 I've never heard someone say "my business would have done great if only I'd make a better legal entity decision."
-
-{% include mailchimp.html %}
