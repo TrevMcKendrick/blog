@@ -60,8 +60,11 @@ And May 1st I’m flying to a Spanish Christian publishing conference in Miami c
 
 All of this from a little app that I launched for less than $500.
 
+{% include follow_me.html %}
+
+<i>Looking for a superpowerful [virtual assistant](http://www.trybackoffice.com)? Check out my company [BackOffice](http://www.trybackoffice.com). Mention that you read this post and get 20% off your first month.</i>
+
    [1]: http://trevormckendrick.com/wp-content/uploads/2013/04/Version-11.png
    [2]: http://trevormckendrick.com/wp-content/uploads/2013/04/Version-21.png
    [3]: http://trevormckendrick.com/wp-content/uploads/2013/04/la-foto-31.png
    [4]: http://trevormckendrick.com/wp-content/uploads/2013/04/la-foto-1.png
-  
