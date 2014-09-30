@@ -9,7 +9,7 @@ Last weekend I had the chance to head out to Silicon Valley with a bunch of othe
 I'll just mention the highlights of the trip:
 
 **Y Combinator**  
-We started at Y Combinator and got a tour with YC partners Kat Manalac and Garry Tan. Kat did most of the tour and gave a quick rundown of YC. My favorite takeaway was how incredibly nice they both were. Not conscending or arrogant at all. Hopefully I'll run into them again at YC's Startup School in a few weeks.
+We started at Y Combinator and got a tour with YC partners [Kat Manalac](https://twitter.com/KatManalac) and [Garry Tan](https://twitter.com/garrytan). Kat did most of the tour and gave a quick rundown of YC. My favorite takeaway was how incredibly nice they both were. Not conscending or arrogant at all. Hopefully I'll run into them again at YC's Startup School in a few weeks.
 ![YC]({{ site.url }}/assets/images/yc.jpg)
 
 **Ronnie Conway**  
@@ -20,7 +20,7 @@ We got a fun tour of Google's campus and yes, it's everything you imagined.
 
 My favorite part was was seeing one of Google's original servers (image below). 
 
-They also had this fun thing called "All the President's Meng." It's an electronic board with rotating pictures of a particular Google employee (Chade-Meng Tan) and a *ton* of famous people. Here's a sample he has on Google Plus (https://plus.google.com/photos/116358482624154197444/albums/5057423992178991505). Apparently he started at Google in 2000 and somehow has gotten to take pictures with all the famous people that come through.
+They also had this fun thing called "All the President's Meng." It's an electronic board with rotating pictures of a particular Google employee (Chade-Meng Tan) and a *ton* of famous people. Here's a sample he has [on Google Plus](https://plus.google.com/photos/116358482624154197444/albums/5057423992178991505). Apparently he started at Google in 2000 and somehow has taken pictures with all the famous people that come through.
 
 The best part about walking around Google is thinking about when it was just two guys working at Stanford.
 ![YC]({{ site.url }}/assets/images/server.jpg)
@@ -29,11 +29,11 @@ The best part about walking around Google is thinking about when it was just two
 ![YC]({{ site.url }}/assets/images/gild.jpg)
 What happens if you taught yourself to code, but you didn't go to school, you've never worked at a big company, and don't otherwise have any pedigree or credentials? How will people know to hire you?
 
-Gild solves this by doing a ton of amazing data science on publicly accessable data: think open source repositories, social media accounts, etc. From all of that they can tell who are the best developers. It's pretty amazing.
+[Gild](http://www.gild.com/) solves this by doing a ton of amazing data science on publicly accessable data: think open source repositories, social media accounts, etc. From all of that they can tell who are the best developers. It's pretty amazing.
 
 **First Opinion**  
 ![First Opinion]({{ site.url }}/assets/images/first_opinion.png)
-First Opinion with McKay Thomas was probably one of my favorite stops. I had never met McKay, but I'd briefly heard of First Opinion (and downloaded their app) when they launched in 2013.
+First Opinion with McKay Thomas was probably one of my favorite stops. I had never met McKay, but I'd briefly heard of [First Opinion](http://firstopinionapp.com/) (and downloaded their app) when they launched in 2013.
 
 McKay is an amazing storyteller; you can see why he was able to raise $40 million to sell baby clothes in Brazil, and now $2.5 for First Opinion (without anything more than a vision and a few mockups).
 
