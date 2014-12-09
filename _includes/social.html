@@ -63,7 +63,10 @@ Follow me:
   </a>
   {% endif %}
 
- <!--  <a title="RSS feed" id="rss" href="/atom.xml">
-    <i class="fa fa-rss-square"></i>
-  </a> -->
 </div>
+
+<br>
+{% if site.theme.social.email %}
+Email
+<a title="{{ site.theme.name }}" href="mailto:{{ site.theme.social.email }}">trevormckendrick@gmail.com</a>
+{% endif %}
