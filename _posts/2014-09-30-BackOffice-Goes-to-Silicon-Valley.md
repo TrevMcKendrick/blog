@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BackOffice Goes to Silicon Valley
-category: blog
+category: draft
 ---
 
 Last weekend I had the chance to head out to Silicon Valley with a bunch of other Utah entrepreneurs (Chad Bennett, Ken Frei, Michael Zaro, Ryan Westwood, to name a few). We had a great trip, met some wonderful people and got to see some exciting places.

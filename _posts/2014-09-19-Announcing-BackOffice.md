@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcing BackOffice
-category: blog
+category: draft
 ---
 
 <p><strong>On Being a Small Business Owner</strong><br>
