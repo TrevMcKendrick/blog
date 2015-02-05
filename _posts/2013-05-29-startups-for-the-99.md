@@ -44,7 +44,7 @@ Knowing who you are is really important because it influences decsisions like:
 
 This all goes back to a bigger lesson: “Begin with the end in mind.” To plan the best route possible you have to know where you’re going. It doesn’t have to be 100% – you can stay flexible – but the end route differences between a VC business and, say, most iOS indie devs is as different as Florida is to Alaska. 
 
-It’s very hard to be survive headed to one when you’re built for the other.
+It’s very hard to survive headed to one when you’re built for the other.
 
    [1]: http://www.avc.com/
    [2]: http://cdixon.org/
