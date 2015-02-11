@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's Okay to Suck
+title: Why You Should Stop Worrying About Being Perfect
 category: blog
 ---
 
@@ -42,6 +42,8 @@ My app made users happy because I was the first to pay attention to them.
 And Twitter had a practically perfect product out the gate.
 
 All that other stuff that we tend to think matters (e.g. how the product looks, getting coverage on HN or TC) doesn't, as long as you get the most important things right. [[^5]]
+
+Don't worry about being perfect. Just do your thing, and do it well!
 
 {% include follow_me.html %}
 <hr>

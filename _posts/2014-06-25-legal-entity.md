@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Choosing a Legal Entity for your Business
+title: The Quickest Advice You'll Find on Choosing a Business Entity
 category: blog
 ---
 
-Figuring out which legal entity to create for your business is boring, but important. If you're going to do it, you might as well take a little extra time to do it right. 
+I don't really tell people about it, but I actually have a Master's degree in accounting. I'm not sure I would do it again (if it's not obvious, I'm not an accountant any more!) but thankfully it was only a 1-year program and the tuition was relatively cheap at around $10,000.
+
+That said, this is my big chance to actually make use of the degree: giving quick, easy tips on how to pick a legal entity for your business! *My lawyer made me write this: I'm not a lawyer or a CPA, so don't take this as legal advice. Before making a decision you should consult proper counsel*
 
 **Is it worth the hassle?**  
+Figuring out which legal entity to create for your business is boring, but important. If you're going to do it, you might as well take a little extra time to do it right. 
+
 First thing's first: *why do I even want to make a legal entity in the first place?*  For most SMB owners, the most important reason is to limit your personal liability.
 
 You could instead operate as a **sole proprietor**, but then you may be personally liable for all debts and claims against the business.
@@ -83,7 +87,14 @@ Not a good fit if:
 - You want the ability to sell "shares" in your company without getting the approval of other shareholders  
 - You plan to raise money from investors beyond friends and family  
 
+**How Do I Setup my Entity?**
+Every state has their own process and fees required to setup an entity. There's many services that will do this for you, but my favorite is [LegalZoom](http://www.legalzoom.com).
+
+They can do lots of other legal stuff, too, but they're great for setting up your business. They know how to handle each state, file all the appropriate documents, etc. 
+
 **Run Your Business**  
-Like many things in running a business, picking which entity is something that you shouldn't get stuck on for too long. Do your research, talk to a CPA if you like, then make the decision and move on.
+Like many things in running a business, picking which entity is something that you shouldn't get stuck on. Do your research, talk to a CPA or a lawyer if you like, then make the decision and move on.
 
 I've never heard someone say "my business would have done great if only I'd make a better legal entity decision."
+
+So get it all setup and move on with your life and business!

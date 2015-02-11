@@ -8,9 +8,11 @@ This is post #4 of my 8 post series on my first year in the App Store.
 
 You can [read the full series here]({{ root_url }}/app-store-series/)
 
-One of the key pieces of my success this last year has been working with the right developer at the right price.
+One of the key pieces of my app success has been working with the right developer at the right price.
 
-Finding a developer for the first time can be scary. But after working with almost a dozen or so devs I’ve found it’s not too bad as long as you follow a few important rules.
+Working with a developer for the first time can be scary. You might now know how to speak their language, or you've never seen code before... that's okay! The good news is you don't have to know *anything* about coding.
+
+After working with almost a dozen or so devs I’ve found it’s not too bad as long as you follow a few important rules. :)
 
 **Know your project goals**  
 You have to start by really understanding your project goals. Do you want to test a new product idea or make something really awesome regardless if people use it?
@@ -24,7 +26,7 @@ One of the key things to understand about finding a contracted developer on the 
 
 And that’s fine! You can still get “good enough” products made to test a market, _if that’s your goal._
 
-A smart way to make the work is by creating mockups. Showing them a picture of what you want built willl do more to explain your project than anything else.
+A smart way to make this work is by creating mockups. Showing them a picture of what you want built willl do more to explain your project than anything else.
 
 My very first Elance project I had no clue what I was doing, but I made the below mockups for the very first version of my app. I didn’t care about what the mockup looked like, I just need to show the contractor where the buttons went and overall layout.
 
@@ -39,14 +41,22 @@ They look really bad! But the point is that it worked. Below the mockup is the f
 Once your mockup is ready you can post confidently to Elance.
 
 **Hiring on Elance**  
-Elance is great for finding “good enough” developers. To find a good fit I look for people who: \- have good reviews \- have a decent portfolio \- speak good English \- are very responsive
+Elance is great for finding “good enough” developers. To find a good fit I look for people who: 
+- have good reviews 
+- have a decent portfolio
+- speak good English 
+- are very responsive
 
 Sometimes I’ll just ask them a question to see how long it takes to respond. Hiring an unresponsive contractor is a terrible experience so you want to get that out of the way as soon as possible.
 
 On smaller scoped projects I also prefer working with individuals versus agencies. That way you know what you’re communicating about the project is going straight to the person doing the actual work.
 
 **Skype is your Friend**  
-Once I’ve narrowed my choices down I’ll interview a few people via Skype. I want to get a feel for how we communicate with each other. Does she understand me when I describe product features? Does he ask good follow up questions?
+Once I’ve narrowed my choices down I’ll interview a few people via Skype. I want to get a feel for how we communicate with each other. 
+
+"Does she understand me when I describe product features?" 
+
+"Does he ask good follow up questions?"
 
 It also helps humanize each other. This is very overlooked with Elancers, myself included. I’ve worked with so many people now that I often forget that on the other side is a breathing, living human being.
 
@@ -66,9 +76,12 @@ There are also very talented, _professional_ developers on Elance. And there’s
 
 It’s turns out it’s really hard for new contrators to win their first Elance job because they don’t have any reviews. You can use this to your advantage.
 
-What this means is sometimes great developers will work for _really_ cheap on their first few jobs just to get into the game. That’s how I found the amazing developer I have now, a guy named [Bart Jacobs][9].
+What this means is sometimes great developers will work for _really_ cheap on their first few jobs just to get into the game. That’s how I found the amazing developer I have now.
 
-He had no reviews, but: \- He had a great portfolio, including his own apps in the App Store \- He spoke amazing English in our Skype interview (he’s from Europe) \- He answered all my questions intellegently, and had smart questions of his own
+He had no reviews, but: 
+- He had a great portfolio, including his own apps in the App Store 
+- He spoke amazing English in our Skype interview (he’s from Europe) 
+- He answered all my questions intellegently, and had smart questions of his own
 
 And he was willing to work at a discount, so I figured I could take the small risk for a great developer.
 
@@ -80,7 +93,7 @@ Of course hiring is only half the battle. Managing developers is a different sto
 While yes, you have hired the contractor and yes, you are paying them, you still have the choice to make their life easy or a living hell. They do their best work for their favorite clients so it’s in your interest to make them happy.
 
 **Know what you want**  
-I was once told by Bart that he likes working for me because I know what I want. So again, make mockups! Just doing them on your own makes you think through how the ap will work.
+I was once told by my developer that he likes working for me because I know what I want. So again, make mockups! Just doing them on your own makes you think through how the ap will work.
 
 That’s much better than going to a dev and saying “I want a Bible app. Go.” That requires a ton more work on their part.
 
@@ -121,13 +134,21 @@ You think this would be obvious.
 
 But many a contractor’s fear is not getting paid. Who doesn’t have stories of calling clients about invoices 90+ days outstanding?
 
-So my rule is: Do I have the cash to pay them? (I better or WTF did I hire them) AND Am I satisfied with the finished project?
+So my rule is: 
+- Do I have the cash to pay them? (I hope so or why on earth did I hire them) AND 
+- Am I satisfied with the finished project?
 
 If both of those are true then I cut the check.
 
 “But you should wait for the invoice….didn’t you get Net 30 terms?”
 
 That’s exactly why I _should_ pay quickly. It will surprise them and they’ll want to work for me again. They’ll try and keep me as a client by doing great work.
+
+I once paid a developer literally 5 minutes after he sent me the invoice. He was going on a trip soon and I knew he'd want to get his loose ends tied up as soon as possible.
+
+After I sent the payment he quickly emailed me, saying that was the fastest he'd ever been paid!
+
+Remember: developers talk to each other! Not only should you treat them well because that's the right thing to do, but because your reputation is important.
 
 **In Summary**  
 Depending on your project goals you can find a good developer at a reasonable price. And if you treat them well that relationship can grow into something powerful.
