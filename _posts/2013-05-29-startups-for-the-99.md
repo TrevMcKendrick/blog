@@ -54,8 +54,3 @@ It’s very hard to survive headed to one when you’re built for the other.
    [6]: http://www.avc.com/a_vc/2009/04/the-venture-capital-math-problem.html
    [7]: http://www.paulgraham.com/growth.html
    [8]: http://www.bothsidesofthetable.com/2009/07/22/do-you-really-even-need-vc/
-   
-   
-   GHVHVDN13776575
-  
-  
