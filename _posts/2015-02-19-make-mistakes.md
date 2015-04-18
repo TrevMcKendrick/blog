@@ -1,22 +1,18 @@
 ---
 layout: post
 title: Make Mistakes
-category: blog
+category: draft
 ---
 
-Okay, so maybe you’ve decided: I want to be an entrepreneur. Or maybe you just want to make a couple extra bucks a month. The next question is always a hard one:
+If you've "decided" you want to be an entrepreneur, your next thought is probably where to begin.
 
-Where do I start?
+The thing that successful entrepreneurs know is that there's no 100% sure way to figure out what to do.
 
-And here’s the thing that every successful entrepreneur eventually realizes (heck, it took me forever to figure this out). And I pause to say this, because I don’t want to burst anyone’s bubble. But I really feel that transparency is so important:
+There's no syllabus for entreprenuership.
 
-There’s no 100% sure way to figure out what to do.
+Which that means you're going to make mistakes along the way.
 
-Which means:
-
-You are going to make mistakes.
-
-But that’s okay. That’s expected. The difference is that most of us have been trained our entire lives to avoid mistakes.
+And that's fine! The problem is that you'll probably try to avoid things that have the chance to lead to a mistake or setback. That's because most of us have been trained to avoid mistakes our entire lives.
 
 For example, if you make a mistake at your job you might get fired, right? So when you’re working for someone else (depending on the culture of the employer of course) you’re much less likely to try new things and experiment. You don’t want to make a mistake… and that’s okay! They don’t want you to mess up, either.
 
