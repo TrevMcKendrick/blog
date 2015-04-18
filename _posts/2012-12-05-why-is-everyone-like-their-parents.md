@@ -4,7 +4,7 @@ title: Why is Everyone like Their Parents?
 category: blog
 ---
 
-Why do so many people end up in the same socioeconomic place as their parents? There’s at least two reasons I can think of.[[^1]]
+Why do so many people end up in the same socioeconomic place as their parents? There are at least two reasons I can think of.[[^1]]
 
 **First**, it’s easier to accomplish something when you’ve seen someone else do it.  
 
@@ -14,7 +14,7 @@ That's probaby not a coincidence.
 
 It’s the same with being raised by parents who are successful. You can probably think back to specific memories of your parents working, whether that's making stuff on the computer, phone calls with coworkers/partners, whatever.
 
-If your parents are successful, you've seen the thousands of baby steps that go into, say, running a business, or creating something new. It's not some mystical, ether-like idea.
+If your parents are successful, you've seen the thousands of baby steps that go into, say, running a business or creating something new. It's not some mystical, ether-like idea.
 
 On the other hand, if you've never seen someone go to college you probably don't have a great idea how the application process works. How thorough does the application have to be filled out? What are colleges really looking for?
 
@@ -28,7 +28,7 @@ Like other human behavior I think IPQ's are a function of nature and nurture. I 
 
 If we spend our time with people who don’t do well in school, don’t have jobs, and watch a lot of TV, our IPQ will adjust down. We won't be as productive, but over time that will feel okay because it's what everyone else is doing.
 
-On the flip side if we’re around friends who wake up at 6 to hit the gym and work a disciplined 12 hour day, our IPQ will slowly adjust up. We'll feel the difference.
+But if we’re around friends who hit the gym at 7am and work disciplined 12 hour days, our IPQ will slowly adjust up. We'll feel the difference.
 
 So to answer the question in the post title, most people end up like their parents because no one else has as large an influence on one's IPQ.
 
@@ -39,4 +39,4 @@ The practical takeaway to all this? Choose friends that will make you better and
 Obviously don't be a jerk or actively push "unambitious" people away. But do make time for people who are interested in the things you aspire to build and create.
 
    [1]: http://en.wikipedia.org/wiki/Roger_Bannister (Roger Bannister)
-   [^1]: newtest
+   [^1]: I'm purposely leaving out a discussion of all the (very large) benefits that come directly from social and economic wealth. I'm more interested in talking about ambitious middle/low income people who realize they're starting without that help.
