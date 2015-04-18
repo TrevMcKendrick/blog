@@ -39,4 +39,4 @@ The practical takeaway to all this? Choose friends that will make you better and
 Obviously don't be a jerk or actively push "unambitious" people away. But do make time for people who are interested in the things you aspire to build and create.
 
    [1]: http://en.wikipedia.org/wiki/Roger_Bannister (Roger Bannister)
-   [^1]: Test
+   [^1]: newtest
