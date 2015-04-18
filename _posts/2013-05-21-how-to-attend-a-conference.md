@@ -4,13 +4,9 @@ title: How to Maximize Your Time at Conferences
 categories: blog app_store_series
 ---
 
-This is post #5 of my 8 post series on my first year in the App Store.
-
-You can [read the full series here]({{ root_url }}/app-store-series/)
-
 Conferences can be scary to attend. If you're like me and in a new industry, you might sometimes show up alone and without knowing a soul.
 
-By way of example, in 2012 I attended Expolit, a conference focused on the Spanish Christian publishing industry. My goal was to get licensing rights to books and study guides to sell as in-app purchases inside our mobile apps.
+By way of example, in 2012 I attended Expolit, a conference focused on the Spanish Christian publishing industry. My goal was to get licensing rights to books to sell as in-app purchases inside our mobile apps.
 
 Expolit is a conference for publishers and distributors to meet each other. It’s a tight-knit community. While I do speak spanish, I was *completely new* to the industry and didn't know anyone when I arrived to Miami. I remember walking into the hotel lobby and hearing everyone chatting loudly in Spanish, like it was some big family reunion. 
 
