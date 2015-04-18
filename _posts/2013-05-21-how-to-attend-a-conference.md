@@ -21,22 +21,20 @@ You need to have specific strategic goals for the conference.
 
 For me at Expolit, I wanted to meet the digital rights managers of every publisher in attendance. They're the people who could actually sign a contract with me to let me sell their books as ebooks inside my apps. 
 
-I started with literally 0 contracts or licenses. So the goal was to start the process of licensing digital books to sell as in-app purchases inside my iPhone apps.
-
 **Make Them Sell to *You***  
 When I first arrived I walked in and immediately walked up to the publisher booths.
 
 I energetically introduced myself and my app company, Salem Software. I told them our story, what we do (Spanish Bible apps), etc. Some people were nice and opened up, but lots of others kind of just listened and then didn’t ask any questions of their own. It felt like a really bad date.
 
-A little later in the first day once I was more tired I found myself slowly walking by booths, gradually perusing everything inside the booth, rather that directly walking up to the booth manager. Sometimes I’d pick up an example book and thumb through it.
+A little later once I was more tired I found myself slowly walking by booths, gradually perusing everything inside the booth, rather that directly walking up to the booth manager. Sometimes I’d pick up an example book and thumb through it.
 
-This changed *everything*.
+This changed everything.
 
 Suddenly the publisher's employee was coming up to *me* and selling *me* on *their* products. “We just released a new book…” or “have you seen this…?” They were trying to convince me that I should carry their books, which is exactly what I wanted!
 
 This was extremely powerful. Of course I wanted to hear what they had to say, so I’d eagerly listen and ask questions. When they were done I’d ask if I could tell them what we do, and they’d also happily say yes. 
 
-And boom, I had an audience.
+And voilá, I had an audience.
 
 This was the perfect introduction. Instead of me approaching them overenthusiatically and scaring them away, I could build a relationship by genuienly listening to them first. By the end of those conversations we were great friends, with specific followup steps agreed to.
 
@@ -73,9 +71,9 @@ If they had more questions about our business and who we are, great, but first a
 **Stand out**  
 Again, people are not going to remember you, so you must do your best to stand out.
 
-This is really hard though as you must balance a fine line. If you’re new and try to stand out _too_ much you’ll look dumb and people won’t trust you.
+This is really hard though as you must balance a fine line. If you’re new and try to stand out _too_ much you’ll look naive and people might not trust you.
 
-Honestly for me all I had were [really nice, simple business cards](http://us.moo.com). As a first impressions they were much better than some of the business cards I received!
+Honestly for me all I had were [nice, simple business cards](http://us.moo.com). As a first impressions they were much better than some of the business cards I received!
 
 An even better example of standing out was something I saw from a little booth in the corner. Every person they had a decent conversation with, myself included, they’d take their picture with them.
 
@@ -84,13 +82,15 @@ When they followed up to me via email they attached the picture, and I _immediat
 Now, taking a picture with everyone might be weird in some settings. Be careful. But do experiment and try finding something that works for your personality and your industry and then go with it.
 
 **Be humble**  
-I pride myself on speaking Spanish well. While I haven’t stayed as fluent as I’d like, I’m still pretty good and like to practice as much as I can. In some instances if I find the right person to talk to I can even “show off” by using idioms and expressions that most foreigners don’t know.
+I pride myself on speaking Spanish well. While I haven’t stayed as fluent as I’d like, I’m still quite good and like to practice as much as I can. In some instances if I find the right person to talk to I can even “show off” by using idioms and expressions that most foreigners don’t know.
 
-So when I arrived at the conference I _really_ wanted to speak Spanish the entire time. Some conversations went really well, but others I struggled to effectively communicate. On top of that, nearly every digital licensing rep I spoke to was bilingual anyway.
+So when I arrived at the conference I _really_ wanted to speak Spanish the entire time. Some conversations went really well, but others I struggled to effectively communicate. On top of that, lots of digital licensing reps I spoke to were bilingual anyway.
 
 About halfway through I bit the bullet. Any person who I absolutely needed to get to know I’d speak to in English. They understood me and Salem Software better, and I felt more confident.
 
 This was hard because I love speaking Spanish. I love impressing native speakers with all the slang that I know. But ultimately I had to eat some humble pie and stick to my mother tongue. If I hadn’t I wouldn’t have built the relationships necessary to achieve my goals.
+
+(That said, practically all of the Central and South American publishers I spoke to did not speak any English, so the Spanish thankfully still came in very handy.)
 
 **Break bread**  
 The two people I had dinner with are the two I feel closest to after the conference. There’s something about eating together outside of a typical “work” environment that helps people loosen up. You don’t even have to drink (we didn’t).
@@ -105,7 +105,7 @@ As the small company doing the asking it of course falls upon us to do all the f
 
 You want to do this soon after the conference but it doesn’t have to be immediately. Some people will still be recovering from the exhausting week away, or they’ll already be inundated with emails from other people they met.
 
-I started emailing my new contacts 4 days after the conference. I don’t know if this was the perfect move vs emailing them _right_ after the conference, but it worked pretty well.
+I started emailing my new contacts 4 days after the conference. I don’t know if this was the perfect move vs emailing them _right_ after the conference, but it ended up working working out fine. Unbeknownst to me at the time, many people use the conference to take an extended vacation in Miami, so they weren't even checking their email immediately after the conference.
 
 **Don’t worry if they’re slow**  
 After emailing folks I didn’t hear back from many of them and kind of started freaking out. What if the entire conference was a waste!
@@ -116,7 +116,7 @@ For everyone that I hadn’t heard back from I sent another email a week later b
 
 The next day I suddenly had a ton of emails waiting for me from all these big publishers. People’s answers all varied, between “I was still on vacation” to “I’ve still trying to get caught up from the conference.” Many even apologized!
 
-The point is, don’t freak out if they don’t respond initially. And definitely don’t pester them with a bunch of emails asking what happened. Be emotionally mature and wait.
+The point is, don’t freak out if they don’t respond initially. And definitely don’t pester them with a bunch of emails asking what happened. Be emotionally mature and wait it out.
 
 **Track your emails**  
 For every contact in my Google Doc I also had a cell to keep track of where we were in the licensing process.
