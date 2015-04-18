@@ -4,7 +4,7 @@ title: Why is Everyone like Their Parents?
 category: blog
 ---
 
-Why do many people end up in the same socioeconomic place as their parents? There’s at least two reasons I can think of.
+Why do so many people end up in the same socioeconomic place as their parents? There’s at least two reasons I can think of.[2]
 
 **First**, it’s easier to accomplish something when you’ve seen someone else do it.  
 
@@ -16,7 +16,7 @@ It’s the same with being raised by parents who are successful. You can probabl
 
 If your parents are successful, you've seen the thousands of baby steps that go into, say, running a business, or creating something new. It's not some mystical, ether-like idea.
 
-On the other hand, if you've never seen someone go to college, you probably don't have a great idea how the application process works. How thorough does the application have to be filled out? What are colleges really looking for?
+On the other hand, if you've never seen someone go to college you probably don't have a great idea how the application process works. How thorough does the application have to be filled out? What are colleges really looking for?
 
 It's hard being the first to do basically anything.
 
@@ -24,7 +24,7 @@ It's hard being the first to do basically anything.
 
 IPQ levels are different in everyone. They help explain (part of) the reason why people who don't need money continue to work so hard: they'd feel unproductive if they didn't.
 
-Like some other human behavior I think IPQ's are a function of nature and nurture. I believe humans tend to fall and rise to the average behavior of the people around them.
+Like other human behavior I think IPQ's are a function of nature and nurture. I believe humans tend to fall and rise to the average behavior of the people around them.
 
 If we spend our time with people who don’t do well in school, don’t have jobs, and watch a lot of TV, our IPQ will adjust down. We won't be as productive, but over time that will feel okay because it's what everyone else is doing.
 
@@ -32,10 +32,11 @@ On the flip side if we’re around friends who wake up at 6 to hit the gym and w
 
 So to answer the question in the post title, most people end up like their parents because no one else has as large an influence on one's IPQ.
 
-And because our parents probably chose to live in a place with people similar to them, everyone you knew growing up was the same way, too. After 18 years surrounded by the same type of people, it becomes difficult to break out and do something different.
+And because our parents probably chose to live in a place with people similar to them, practically everyone you knew growing up was the same way, too. It can be difficult to break out and do something different after being surrounded for 18 years by the same type of people.
 
 The practical takeaway to all this? Choose friends that will make you better and inspire you! 
 
-Obviously don't be a jerk or push "unambitious" people away. But do make time for people who are interested in the things you aspire to build and create.
+Obviously don't be a jerk or actively push "unambitious" people away. But do make time for people who are interested in the things you aspire to build and create.
 
    [1]: http://en.wikipedia.org/wiki/Roger_Bannister (Roger Bannister)
+   [2]: Test
