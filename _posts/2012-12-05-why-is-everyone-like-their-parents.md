@@ -4,7 +4,7 @@ title: Why is Everyone like Their Parents?
 category: blog
 ---
 
-Why do so many people end up in the same socioeconomic place as their parents? There’s at least two reasons I can think of.[2]
+Why do so many people end up in the same socioeconomic place as their parents? There’s at least two reasons I can think of.[[^1]]
 
 **First**, it’s easier to accomplish something when you’ve seen someone else do it.  
 
@@ -39,4 +39,4 @@ The practical takeaway to all this? Choose friends that will make you better and
 Obviously don't be a jerk or actively push "unambitious" people away. But do make time for people who are interested in the things you aspire to build and create.
 
    [1]: http://en.wikipedia.org/wiki/Roger_Bannister (Roger Bannister)
-   [2]: Test
+   [^1]: Test
