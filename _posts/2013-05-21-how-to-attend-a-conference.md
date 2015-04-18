@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything You Need to Know to Maximize Your Time at a Conference
+title: How to Maximize Your Time at Conferences
 categories: blog app_store_series
 ---
 
