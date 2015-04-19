@@ -26,11 +26,13 @@ IPQ levels are different in everyone. They help explain (part of) the reason why
 
 Like other human behavior I think IPQ's are a function of nature and nurture. I believe humans tend to fall and rise to the average behavior of the people around them.
 
-If we spend our time with people who don’t do well in school, don’t have jobs, and watch a lot of TV, our IPQ will adjust down. We won't be as productive, but over time that will feel okay because it's what everyone else is doing.
+If we spend our time with people who, say, don't get a lot done, or who watch a lot of TV, our IPQ will adjust down. 
+
+We won't be as productive, but over time that will feel okay because it's what everyone else is doing.
 
 But if we’re around friends who hit the gym at 7am and work disciplined 12 hour days, our IPQ will slowly adjust up. We'll feel the difference.
 
-So to answer the question in the post title, most people end up like their parents because no one else has as large an influence on one's IPQ.
+So to answer the question in the post title: most people end up like their parents because no one else has as large an influence on one's IPQ.
 
 And because our parents probably chose to live in a place with people similar to them, practically everyone you knew growing up was the same way, too. It can be difficult to break out and do something different after being surrounded for 18 years by the same type of people.
 
