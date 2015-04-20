@@ -119,7 +119,7 @@ I used to track all of my conversations manually Google Docs. While that works a
 
 Two of my favorites are Streak and RelateIQ. They'll help automate a lot of the conversation tracking so you don't have to reread entire email chains to remind yourself the status of a deal.
 
-**Stay in Touch**
+**Stay in Touch**  
 This should go without saying, but regardless of how the deals end up going make sure to stay in touch after the conference! When the next conference comes around you'll know more people and be more confident. You'll be better able to host a dinner and start to really build a brand in the industry.
 
 You can [follow me on Twitter here][3].
