@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What The Simpsons can Teach Indie Developers
+title: What Matters as an Indie Developer
 category: blog
 ---
 
@@ -41,6 +41,6 @@ Tony Hsieh wrote in *[Delivering Happiness](http://www.amazon.com/Delivering-Hap
 
 Like the story in a movie or TV show, the problem your app solves is what matters most.
 
-Thankfully that's one of the few things over which developers have absolute control.
+And thankfully, that's one of the few things over which developers have absolute control.
 
 {% include follow_me.html %}
