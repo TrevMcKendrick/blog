@@ -35,12 +35,10 @@ It works for the same reasons guys like [Joel Grasmeyer](https://twitter.com/gra
 I wouldn't be surprised if there were many more iOS indie developers out there, quietly making a living solving the problems of some unsexy niche.
 
 <hr> 
-Tony Hsieh wrote in *[Delivering Happiness](http://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6/?tag=trevmcke-20)* talking about entrepreneurial lessons he learned playing poker:
+Tony Hsieh wrote in *[Delivering Happiness](http://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6/?tag=trevmcke-20)* about entrepreneurial lessons he learned playing poker:
 
 ["Table selection is the most important decision you can make."](http://www.huffingtonpost.com/tony-hsieh/tony-hsieh-zappos-ceo-del_b_589543.html)
 
-Like the story in a movie or TV show, the problem your app solves is what matters most.
-
-And thankfully, that's one of the few things over which developers have absolute control.
+Like the story in a movie or TV show, the problem your app solves is what matters most. And thankfully, it's one of the few things over which developers have absolute control.
 
 {% include follow_me.html %}
