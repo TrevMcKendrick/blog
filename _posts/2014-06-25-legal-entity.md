@@ -87,7 +87,7 @@ Not a good fit if:
 - You want the ability to sell "shares" in your company without getting the approval of other shareholders  
 - You plan to raise money from investors beyond friends and family  
 
-**How Do I Setup my Entity?**
+**How Do I Setup my Entity?**  
 Every state has their own process and fees required to setup an entity. There's many services that will do this for you, but my favorite is [LegalZoom](http://www.legalzoom.com).
 
 They can do lots of other legal stuff, too, but they're great for setting up your business. They know how to handle each state, file all the appropriate documents, etc. 
