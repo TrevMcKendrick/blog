@@ -40,10 +40,11 @@ A guy named [Aditya Chhatrala][17] did the *entire* quote app for $250. Pretty r
 
 If you manage the process right there’s no doubt in my mind you can get great work from [99designs](https://99designs.com).
 
-**How I use 99designs**
+**How I use 99designs**  
 To get the best possible work out of [99designs](https://99designs.com) I recommend the following:
 
-**Show examples of what you like** Finding examples of things you like helps establish the _look and feel_ for the designer. It also helps force you to understand designs that you like. You’ll be surprised by how much work this takes.
+**Show examples of what you like**  
+Finding examples of things you like helps establish the _look and feel_ for the designer. It also helps force you to understand designs that you like. You’ll be surprised by how much work this takes.
 
 **Do your own (very) rough mockup**  
 What I mean by a "rough mockup" is something that shows each screen of the app, where each button goes, where the button should take the user, etc. 
@@ -121,7 +122,7 @@ I found my current designer there, [Vu Hoang Anh][7] of [CSS Hat][8] and [abdoc]
 
 This is all I did to find him:
 
-**Pay your $20**
+**Pay your $20**  
 It costs $20 a year to talk to people in dribbble’s database. If you can’t afford $20 to look for a designer you probably shouldn’t be trying to build an app.
 
 **Find ~5 people you like**  
@@ -145,7 +146,7 @@ If this sounds interesting to you please email me to discuss more details.
 Thanks! 
 Trevor*
 
-**Three important notes on dribbble**
+**Three important notes on dribbble**  
 **1.** I was specific about my budget to get their attention. $2,000 wasn’t enough for a few of them, but at least it gives both parties an idea of where you stand. With no number you don’t have a place to start talking seriously. **2.** I mentioned I already had a developer on board and that 95% of the screens were mocked up with paper/pencil. Again this lets them know you’re serious. They need to feel that if they take the trouble to respond they’re not wasting their time. 
 **3.** I was open to his input. I wanted him to know that while yes I had a solid idea in mind I was still hoping he’d provide some of his expertise and offer suggestions on how to improve what I’d thought of.
 
