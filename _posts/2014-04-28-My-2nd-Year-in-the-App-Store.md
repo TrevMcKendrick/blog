@@ -131,13 +131,4 @@ If you put in the time before and during school, you'll likely be good enough to
 
 Bonus: Somehow I got the nickname "Biblia Jefe", which means Bible boss. It was a fun 3 months.
 
-**Building My Own First Product**  
-I'm working on a brand new B2B product in Rails. It's about 80% ready for launch. 
-
-My [partner](https://twitter.com/mikeperley) and I won a $20,000 grant from the State of Utah to make this thing, so that's a nice little cushion, too. 
-
-Nothing to announce today, but here's a sneak peak [of the logo](http://buffer-uploads.s3.amazonaws.com/000000000000000000015056/3ec157eb7ea28717d922c27bb57eb6e9.jpg).
-
-All in all it's been a great year. And it all started by an app I built for $500.
-
 You can follow me on [Twitter here](http://twitter.com/trevmckendrick)
