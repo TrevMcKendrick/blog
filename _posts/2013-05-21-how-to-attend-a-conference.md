@@ -6,7 +6,7 @@ redirect_to:
 	- http://www.zerotoentrepreneur.com/how-to-attend-a-conference
 ---
 
-Conferences can be scary to attend. If you're like me and in a new industry, you might sometimes show up alone and without knowing a soul.
+Conferences can be scary. If you're like me and in a new industry, you might sometimes show up alone and without knowing a soul.
 
 By way of example, in 2012 I attended Expolit, a conference focused on the Spanish Christian publishing industry. My goal was to get licensing rights to books to sell as in-app purchases inside our mobile apps.
 
