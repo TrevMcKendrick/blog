@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How to Attend A Conference
+redirect_to:
+  - http://www.zerotoentrepreneur.com
 categories: blog app_store_series
+
 ---
 
 Conferences can be scary. If you're like me and in a new industry, you might sometimes show up alone and without knowing a soul.
