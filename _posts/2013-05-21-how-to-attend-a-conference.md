@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title: How to Attend A Conference
 redirect_to:
   - http://www.zerotoentrepreneur.com
 categories: blog app_store_series
+layout: post
 
 ---
 
