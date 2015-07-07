@@ -39,3 +39,6 @@ theme:
   show_disclaimer: true
 
   follow_me: I'd love to meet you on <a href="https://twiter.com/trevmckendrick"Twitter</a>.
+
+gems:
+  - jekyll-redirect-from
