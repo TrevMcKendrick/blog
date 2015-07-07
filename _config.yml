@@ -4,6 +4,8 @@ url: http://www.trevormckendrick.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 markdown: kramdown
+gems:
+  - jekyll-redirect-from
 
 permalink: /:title
 
@@ -39,6 +41,3 @@ theme:
   show_disclaimer: true
 
   follow_me: I'd love to meet you on <a href="https://twiter.com/trevmckendrick"Twitter</a>.
-
-gems:
-  - jekyll-redirect-from
