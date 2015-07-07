@@ -1,7 +1,7 @@
 ---
 
 title: How to Attend A Conference
-redirect_to: http://www.zerotoentrepreneur.com
+redirect_to: http://www.zerotoentrepreneur.com/how-to-attend-a-conference/
 categories: blog app_store_series
 layout: post
 
