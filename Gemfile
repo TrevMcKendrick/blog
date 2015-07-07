@@ -5,3 +5,5 @@
 # gem 's3_website'
 
 # gem 'nokogiri'
+
+gem 'jekyll-redirect-from'
