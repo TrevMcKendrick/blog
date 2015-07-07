@@ -1,11 +1,11 @@
 ---
-
 title: How to Attend A Conference
-redirect_to: http://www.zerotoentrepreneur.com/how-to-attend-a-conference/
+redirect_to: "http://www.zerotoentrepreneur.com/how-to-attend-a-conference/"
 categories: blog app_store_series
 layout: post
-
+published: true
 ---
+
 
 Conferences can be scary. If you're like me and in a new industry, you might sometimes show up alone and without knowing a soul.
 
@@ -129,5 +129,3 @@ You can [follow me on Twitter here][3].
 
 
    [3]: https://twitter.com/TrevMcKendrick
-
-  
